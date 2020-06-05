@@ -20,7 +20,7 @@
 **Diseases and outbreaks**
 - Worldwide (China) Coronavirus outbreak
     - 6.7 million+ infected
-        - 1 in 1181 people are infected
+        - 1 in 1164 people are infected
     - 393k+ deaths
     - 5.86% death rate
     - Death of Rick May
@@ -65,8 +65,10 @@
     - Most companies participate in #BlackOutTuesday
 - Delhi riots
 - Hong Kong riots
+- Chile protests
 - Greatest stock market crash since the 1999-2002 Great Recession
 - Greatest unemployment rate since the Great Depression
+- China-USA trade war
 
 **Notable deaths, arrests, and others**
 - Death of Qassem Soleimani
