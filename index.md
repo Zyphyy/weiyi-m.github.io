@@ -19,10 +19,10 @@
 
 **Diseases and outbreaks**
 - Worldwide (China) Coronavirus outbreak
-    - 6.7 million+ infected
-        - 1 in 1164 people are infected
-    - 393k+ deaths
-    - 5.86% death rate
+    - 6.84 million+ infected
+        - 1 in 1139 people are infected
+    - 398.2k+ deaths
+    - 5.82% death rate
     - Death of Rick May
 - China H5N1 bird flu outbreak
 - Congo Ebola outbreak
@@ -67,6 +67,8 @@
 - Hong Kong riots
 - Chile protests
 - Greatest stock market crash since the 1999-2002 Great Recession
+    - Worst economic downturn in America
+    - Worst economic downturn in Australia
 - Greatest unemployment rate since the Great Depression
 - China-USA trade war
 
