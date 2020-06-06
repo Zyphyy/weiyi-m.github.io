@@ -16,6 +16,9 @@
 - Middle East storms
 - 20,000 tonnes oil spill in Arctic Circle
     - Russian Arctic River turns red
+    - State of emergency declared by Putin
+- May 2020 becomes May with highest temperature
+- 2020 becomes top 10 warmest years
 
 **Diseases and outbreaks**
 - Worldwide (China) Coronavirus outbreak
@@ -63,6 +66,10 @@
     - The White House goes dark
         - Trump led to bunker
     - Most companies participate in #BlackOutTuesday
+- Mexico face mask protests
+    - Cause: death of Giovanni Lopez
+        - Killed by police while in custody for not wearing mask
+    - Police officer set on fire
 - Delhi riots
 - Hong Kong riots
 - Chile protests
@@ -71,17 +78,20 @@
     - Worst economic downturn in Australia
 - Greatest unemployment rate since the Great Depression
 - China-USA trade war
+- French military on North Africa
+    - Al-Qaeda attack
+    - Adbelmalek Droukdel, leader of Al-Qaeda, killed
 
 **Notable deaths, arrests, and others**
-- Death of Qassem Soleimani
-- Death of Kobe Bryant
-- Death of Gianna Bryant
-- Death of Rick May
+- Death of Qassem Soleimani, Iranian military general
+- Death of Kobe Bryant, basketball player
+- Death of Gianna Bryant, daughter of Kobe
+- Death of Rick May, TF2 voice actor
 - Death of George Floyd
 - Death of Ahmaud Arbery
 - Death of Breonna Taylor
 - Death of David McAtee
-- Death of George Floyd
+- Death of Adbekmalek Droukdel, leader of Al-Qaeda
 - Arrest of Derek Chauvin
     - Charged with 2nd-degree murder of George Floyd
     - Placed on suicide watch
