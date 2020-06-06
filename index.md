@@ -63,6 +63,7 @@
     - USA: All 50 states protesting
         - Scottsdale Looting
             - Arrest of Jake Paul
+        - Joseph Bologna under prosecution
     - The White House goes dark
         - Trump led to bunker
     - Most companies participate in #BlackOutTuesday
@@ -102,6 +103,13 @@
 - Arrest of Thomas Lane
     - Charged with manslaughter of George Floyd
 - Arrest of Jake Paul
+    - Cause: Scottsdale Looting
     - Charged with criminal trespass
     - Charged with unlawful assembly
+- Joseph Bologna facing prosecution
+    - Cause: Attacking a peaceful Temple University student
+    - Cause: Assaulting others during peaceful protests
+    - Charged with simple and aggravated assault
+    - Charged with possession of instrument in crime
+    - Charged with reckless endangering of others
 
