@@ -56,14 +56,31 @@
 - Worldwide (mostly USA) BlackLivesMatter protests
     - Cause: Death of George Floyd
         - All 4 officers charged, Chauvin charged for 2nd-degree murder
-    - Death of Ahmaud Arbery
-    - Death of Breonna Taylor
-    - Death of David McAtee
-    - Mass police brutality
-    - USA: All 50 states protesting
+    - Cause: Death of Ahmaud Arbery
+    - Cause: Death of Breonna Taylor
+    - Cause: Death of David McAtee
+    - Cause: Mass police brutality
+    - Cause: USA: All 50 states protesting
         - Scottsdale Looting
             - Arrest of Jake Paul
         - Joseph Bologna under prosecution
+        - Innocent homeless person shot in head by police
+            - LAPD sued by advocates
+    - Canada protesting
+        - Canada's Prime Minister, Justin Trudeau, kneels during protest
+    - China protesting
+    - Germany protesting
+    - Iran protesting
+    - Ireland protesting
+    - Peru protesting
+    - Russia protesting
+    - South Africa protesting
+    - Turkey protesting
+    - UK protesting
+    - Venezuela protesting
+    - Criticism from the African Union
+    - Criticism from the European Union
+    - Criticism from the United Nations
     - The White House goes dark
         - Trump led to bunker
     - Most companies participate in #BlackOutTuesday
@@ -75,11 +92,10 @@
 - Hong Kong riots
 - Chile protests
 - Greatest stock market crash since the 1999-2002 Great Recession
-    - Worst economic downturn in America
-    - Worst economic downturn in Australia
+    - Worst economic downturn in all continents.
 - Greatest unemployment rate since the Great Depression
 - China-USA trade war
-- French military on North Africa
+- French military in North Africa
     - Al-Qaeda attack
     - Adbelmalek Droukdel, leader of Al-Qaeda, killed
 
@@ -106,6 +122,7 @@
     - Cause: Scottsdale Looting
     - Charged with criminal trespass
     - Charged with unlawful assembly
+    - Charged with general misdemeanour
 - Joseph Bologna facing prosecution
     - Cause: Attacking a peaceful Temple University student
     - Cause: Assaulting others during peaceful protests
