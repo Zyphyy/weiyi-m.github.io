@@ -22,10 +22,10 @@
 
 **Diseases and outbreaks**
 - Worldwide (China) Coronavirus outbreak
-    - 6.84 million+ infected
-        - 1 in 1139 people are infected
-    - 398.2k+ deaths
-    - 5.82% death rate
+    - 7.08 million+ infected
+        - 1 in 1101 people are infected
+    - 405k+ deaths
+    - 5.72% death rate
     - Death of Rick May
 - China H5N1 bird flu outbreak
 - Congo Ebola outbreak
@@ -67,7 +67,7 @@
     - The White House goes dark
         - Trump led to bunker
     - Most companies participate in #BlackOutTuesday
-- Mexico face mask protests
+- Mexico police brutality protests
     - Cause: death of Giovanni Lopez
         - Killed by police while in custody for not wearing mask
     - Police officer set on fire
