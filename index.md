@@ -63,7 +63,8 @@
     - Cause: USA: All 50 states protesting
         - Scottsdale Looting
             - Arrest of Jake Paul
-        - Joseph Bologna under prosecution
+        - Inspector Joseph Bologna under prosecution
+            - Cause: "Shoved baton down civilian's throat"
         - Innocent homeless person shot in head by police
             - LAPD sued by advocates
     - Canada protesting
@@ -111,6 +112,7 @@
 - Death of Adbekmalek Droukdel, leader of Al-Qaeda
 - Arrest of Derek Chauvin
     - Charged with 2nd-degree murder of George Floyd
+    - Charged with manslaugther of George Floyd
     - Placed on suicide watch
 - Arrest of Tou Thao
     - Charged with manslaughter of George Floyd
@@ -129,4 +131,9 @@
     - Charged with simple and aggravated assault
     - Charged with possession of instrument in crime
     - Charged with reckless endangering of others
+- LAPD sued by advocates, BLM
+    - Cause: Mass detention of civilians
+    - Cause: Violation of civil rights
+    - Cause: Use of excessive force
+    - Cause: Use of "less lethal" weapons to cause injury to innocents
 
