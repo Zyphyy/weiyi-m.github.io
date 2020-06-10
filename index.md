@@ -99,6 +99,8 @@
 - French military in North Africa
     - Al-Qaeda attack
     - Adbelmalek Droukdel, leader of Al-Qaeda, killed
+- Famous hacktivist group Anonymous makes reappearance on social media
+    - Cause: unconfirmed, likely due to George Floyd shooting
 
 **Notable deaths, arrests, and others**
 - Death of Qassem Soleimani, Iranian military general
