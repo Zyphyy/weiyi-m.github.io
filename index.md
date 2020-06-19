@@ -92,6 +92,7 @@
 - Delhi riots
 - Hong Kong riots
 - Chile protests
+- Deadly China-India border dispute
 - Greatest stock market crash since the 1999-2002 Great Recession
     - Worst economic downturn in all continents.
 - Greatest unemployment rate since the Great Depression
@@ -139,3 +140,6 @@
     - Cause: Use of excessive force
     - Cause: Use of "less lethal" weapons to cause injury to innocents
 
+Misc:
+- Rick Astley gets rickrolled
+- Average Tiktok ratings drop to 1 star
