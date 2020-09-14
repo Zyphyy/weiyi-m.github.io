@@ -143,3 +143,6 @@
 Misc:
 - Rick Astley gets rickrolled
 - Average Tiktok ratings drop to 1 star
+- TikTok is being based in Singapore (MY COUNTRY!)
+
+
